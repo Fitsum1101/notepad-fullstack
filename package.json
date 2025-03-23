@@ -1,5 +1,14 @@
 {
   "name": "notepad-react",
   "version": "0.1.0",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "prisma": "^6.5.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
 }
